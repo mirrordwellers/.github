@@ -1,5 +1,3 @@
-# .github
-
 ![FyRwkmHaUAILl3C](https://github.com/virtualrejects/open-beta/assets/40698300/8437bcb5-dfcf-4159-82d3-5f9580bf1e74)
 
 Hello everyone,
