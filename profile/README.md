@@ -1,5 +1,4 @@
-![FyRwkmHaUAILl3C](https://github.com/virtualrejects/open-beta/assets/40698300/8437bcb5-dfcf-4159-82d3-5f9580bf1e74)
-
+![Vector](https://github.com/virtualrejects/.github/assets/40698300/0be017a6-e451-4be7-b097-50e0e4f3f043)
 Hello everyone,
 
 We're incredibly excited to announce that our project, an open-source virtual reality events platform, is in need of talented and creative individuals to join us on this thrilling journey. As a personal open-source endeavor, we are not a company but a passionate community, and we are eager to welcome all the help we can get.
