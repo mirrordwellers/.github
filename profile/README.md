@@ -42,8 +42,8 @@ Best regards,
 
 <hr />
 
-Tech Features
-- Next.js 13 App Directory
+Stack
+- Next.js 13.4
 - Radix UI Primitives
 - Tailwind CSS
 - Icons from [Lucide](https://lucide.dev)
