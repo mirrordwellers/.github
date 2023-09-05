@@ -1,4 +1,4 @@
-![Vector](https://github.com/virtualrejects/.github/assets/40698300/dfa3f0a3-bf78-46f1-83bc-850d2967a3e4)
+![bgoriginal (1) (1)](https://github.com/virtualrejects/.github/assets/40698300/38a37050-712a-4302-b6dd-d8f51e611a2e)
 
 Hello everyone,
 
@@ -38,9 +38,6 @@ We truly value each person's involvement and are grateful for all the help we ca
 
 </p>
 </details> 
-
-Best regards,
-@virtualrejects team
 
 <hr />
 
