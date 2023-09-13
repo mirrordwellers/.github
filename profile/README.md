@@ -4,8 +4,6 @@ Hello everyone,
 
 We're incredibly excited to announce that our project, an open-source virtual reality events platform, is in need of talented and creative individuals to join us on this thrilling journey. As a personal open-source endeavor, we are not a company but a passionate community, and we are eager to welcome all the help we can get.
 
-Check the ongoing project demo [here](https://open-beta-private.vercel.app/).
-
 <details><summary> Who are we looking for?</summary>
 <p>
 
