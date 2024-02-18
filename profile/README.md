@@ -1,6 +1,7 @@
-![bgoriginal (1) (1)](https://github.com/virtualrejects/.github/assets/40698300/38a37050-712a-4302-b6dd-d8f51e611a2e)
+![thumbnail](https://github.com/mirrordwellers/.github/assets/40698300/f7c59a8f-d70b-4c4b-9752-95e7865382f7)
 
 Hello everyone,
+
 
 We're incredibly excited to announce that our project, an open-source virtual reality events platform, is in need of talented and creative individuals to join us on this thrilling journey. As a personal open-source endeavor, we are not a company but a passionate community, and we are eager to welcome all the help we can get.
 
@@ -28,9 +29,12 @@ Our open-source project is all about coming together to create something remarka
 <details><summary>How can you get involved?</summary>
 <p>
 
-As an open-source project, we're eager to have you on board. To get started, simply add one of us on Discord and send a direct message. Don't hesitate to introduce yourself and let us know what aspect of the project excites you the most and how you'd like to contribute.
+As an open-source project, we're eager to have you on board. To get started, simply add <b>umcoelho</b> on Discord and send a direct message. Alternatively, you can also reach out through email at leonardomjq@gmail.com. 
 
-![image](https://github.com/virtualrejects/open-beta/assets/40698300/223668c8-f2b6-403d-9d04-fa5c6fbe8db3)
+Don't hesitate to introduce yourself and let us know what aspect of the project excites you the most and how you'd like to contribute.
+
+![image](https://github.com/mirrordwellers/.github/assets/40698300/de52a6b6-561c-4c7c-a500-9a07e7be8c54)
+
 
 We truly value each person's involvement and are grateful for all the help we can get.
 
@@ -41,11 +45,12 @@ We truly value each person's involvement and are grateful for all the help we ca
 
 Stack
 - Next.js 13.4
-- Radix UI Primitives
+- Radix UI Primitives / Shadcn UI
 - Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
+- Card style from [UI.Aceternity](https://ui.aceternity.com)
+- Icons from [Lucide](https://lucide.dev) and [Tabler](https://tabler.io/icons)
 - React Form Hooks
+- Tanstack/react-query
 - Zod
 - Tailwind CSS class sorting, merging, and linting.
 
